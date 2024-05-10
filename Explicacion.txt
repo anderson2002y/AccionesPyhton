@@ -1,1 +1,1 @@
-Se sube un proyecto a git hub anteriormente hecho 
+Se sube un proyecto a git hub anteriormente hecho en un equipo de trabajo en google colab
